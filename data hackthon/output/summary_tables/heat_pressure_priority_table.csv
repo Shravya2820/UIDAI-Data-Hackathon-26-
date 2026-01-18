@@ -1,0 +1,9 @@
+region,ESI,priority
+East,0.0032559150036893824,High – Immediate Action
+North,0.0028375994097722753,High – Immediate Action
+Northeast,0.002782473914047432,Medium – Monitor
+West,0.0022000136612440446,Medium – Monitor
+South,0.0010576637950475882,Medium – Monitor
+Central,0.0010117618979357422,Low – Stable
+Other,7.31827051023043e-05,Low – Stable
+Islands,2.3652265460223297e-06,Low – Stable
